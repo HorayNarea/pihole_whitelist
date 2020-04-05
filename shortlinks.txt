@@ -1,0 +1,9 @@
+# shortlinks
+app.link
+bit.ly
+is.gd
+tinyurl.com
+amzn.to
+j.mp
+cutt.ly
+www.cutt.ly

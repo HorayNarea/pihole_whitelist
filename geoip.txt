@@ -1,0 +1,4 @@
+# GeoIP
+js.maxmind.com
+ipapi.co
+ip-api.com

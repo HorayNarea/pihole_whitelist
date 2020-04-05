@@ -1,0 +1,6 @@
+# CDNs & Storage
+cdn.optimizely.com
+schd.ws
+ftp.samba.org
+assets.adobedtm.com
+p.typekit.net

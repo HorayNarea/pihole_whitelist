@@ -1,0 +1,2 @@
+# Xiaomi
+api.xmpush.xiaomi.com

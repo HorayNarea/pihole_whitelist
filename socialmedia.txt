@@ -1,0 +1,8 @@
+# social media domains
+analytics.twitter.com
+graph.accountkit.com
+graph.instagram.com
+graph.facebook.com
+connect.facebook.com
+creative.ak.fbcdn.net
+s.youtube.com

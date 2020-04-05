@@ -1,0 +1,25 @@
+# Adlist Domains
+adaway.org
+bitbucket.org
+blocklist.site
+gitlab.com
+hostfiles.frogeye.fr
+infosec.cert-pa.it
+infosharing.cybersaiyan.it
+mirror1.malwaredomains.com
+mirror.cedia.org.ec
+pgl.yoyo.org
+phishing.army
+raw.githubusercontent.com
+reddestdream.github.io
+s3.amazonaws.com
+someonewhocares.org
+ssl.bblck.me
+sysctl.org
+urlhaus.abuse.ch
+v.firebog.net
+winhelp2002.mvps.org
+www.botvrij.eu
+www.dshield.org
+www.joewein.net
+www.malwaredomainlist.com

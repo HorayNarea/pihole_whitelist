@@ -1,0 +1,5 @@
+# push services
+api.pushwoosh.com
+ha.pushwoosh.com
+ha-api.pushwoosh.com
+wetter.pushwoosh.com

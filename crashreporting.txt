@@ -1,0 +1,8 @@
+# crash reporting & co.
+app-measurement.com
+reports.crashlytics.com
+settings.crashlytics.com
+sdk.hockeyapp.net
+browser.sentry-cdn.com
+incoming.telemetry.mozilla.org
+crashlogs.whatsapp.net
