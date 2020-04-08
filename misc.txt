@@ -15,6 +15,7 @@ image.ard.de
 app.adjust.com
 hackerone.com
 spiegel-de.spiegel.de
+shop.rewe-static.de
 
 # GitHub Pages
 185.199.108.153
