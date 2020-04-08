@@ -8,6 +8,7 @@ infosec.cert-pa.it
 infosharing.cybersaiyan.it
 mirror1.malwaredomains.com
 mirror.cedia.org.ec
+osint.digitalside.it
 pgl.yoyo.org
 phishing.army
 raw.githubusercontent.com
