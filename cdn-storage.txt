@@ -4,3 +4,4 @@ schd.ws
 ftp.samba.org
 assets.adobedtm.com
 p.typekit.net
+storage.googleapis.com
