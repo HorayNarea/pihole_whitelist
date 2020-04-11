@@ -1,7 +1,10 @@
 # Adlist Domains
 adaway.org
+azorult-tracker.net
 bitbucket.org
+blocklist.cyberthreatcoalition.org
 blocklist.site
+gist.githubusercontent.com
 gitlab.com
 hostfiles.frogeye.fr
 infosec.cert-pa.it
@@ -11,6 +14,7 @@ mirror.cedia.org.ec
 osint.digitalside.it
 pgl.yoyo.org
 phishing.army
+phishing.mailscanner.info
 raw.githubusercontent.com
 reddestdream.github.io
 s3.amazonaws.com
@@ -24,3 +28,4 @@ www.botvrij.eu
 www.dshield.org
 www.joewein.net
 www.malwaredomainlist.com
+www.threatcrowd.org
