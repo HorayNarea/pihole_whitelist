@@ -16,3 +16,4 @@ app.adjust.com
 hackerone.com
 spiegel-de.spiegel.de
 shop.rewe-static.de
+firebaseremoteconfig.googleapis.com
