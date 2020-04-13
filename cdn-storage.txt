@@ -5,3 +5,4 @@ ftp.samba.org
 assets.adobedtm.com
 p.typekit.net
 storage.googleapis.com
+cdn.podigee.com
