@@ -1,8 +1,8 @@
 # CDNs & Storage
-cdn.optimizely.com
-schd.ws
-ftp.samba.org
 assets.adobedtm.com
-p.typekit.net
 storage.googleapis.com
+cdn.optimizely.com
 cdn.podigee.com
+p.typekit.net
+ftp.samba.org
+schd.ws
