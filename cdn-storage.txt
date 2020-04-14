@@ -7,3 +7,4 @@ cdn.podigee.com
 p.typekit.net
 ftp.samba.org
 schd.ws
+gitcdn.xyz
