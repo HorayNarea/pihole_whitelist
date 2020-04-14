@@ -4,5 +4,6 @@ connect.facebook.com
 graph.facebook.com
 graph.instagram.com
 analytics.twitter.com
+www.youtube-nocookie.com
 s.youtube.com
 creative.ak.fbcdn.net
