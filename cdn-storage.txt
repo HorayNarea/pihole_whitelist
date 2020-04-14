@@ -1,5 +1,6 @@
 # CDNs & Storage
 assets.adobedtm.com
+maxcdn.bootstrapcdn.com
 storage.googleapis.com
 cdn.optimizely.com
 cdn.podigee.com
