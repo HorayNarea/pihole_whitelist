@@ -2,6 +2,7 @@
 habd.as
 app.adjust.com
 guce.advertising.com
+ocsp.comodoca.com
 pub.s10.exacttarget.com
 firebaseremoteconfig.googleapis.com
 hackerone.com
