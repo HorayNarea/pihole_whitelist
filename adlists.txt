@@ -4,7 +4,6 @@ azorult-tracker.net
 bitbucket.org
 blocklist.cyberthreatcoalition.org
 blocklist.site
-gist.githubusercontent.com
 gitlab.com
 hostfiles.frogeye.fr
 infosec.cert-pa.it
