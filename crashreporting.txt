@@ -5,4 +5,5 @@ settings.crashlytics.com
 browser.sentry-cdn.com
 sdk.hockeyapp.net
 crashlogs.whatsapp.net
+telemetry-incoming.r53-2.services.mozilla.com
 incoming.telemetry.mozilla.org
