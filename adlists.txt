@@ -4,6 +4,7 @@ azorult-tracker.net
 bitbucket.org
 blocklist.cyberthreatcoalition.org
 blocklist.site
+dbl.oisd.nl
 gitlab.com
 hostfiles.frogeye.fr
 infosec.cert-pa.it
@@ -26,3 +27,4 @@ www.botvrij.eu
 www.dshield.org
 www.joewein.net
 www.malwaredomainlist.com
+www.stopforumspam.com
