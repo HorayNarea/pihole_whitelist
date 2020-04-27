@@ -19,3 +19,6 @@ i0.gmx.net
 www.slideshare.net
 vidoza.net
 openports.se
+
+# strato shared hosting
+81.169.145.161
