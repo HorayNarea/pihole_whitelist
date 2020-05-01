@@ -1,5 +1,6 @@
 # misc
 habd.as
+reports.adguard.com
 app.adjust.com
 guce.advertising.com
 ocsp.comodoca.com
