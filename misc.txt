@@ -23,3 +23,7 @@ openports.se
 
 # strato shared hosting
 81.169.145.161
+
+# Spiegel Online
+message331.sp-prod.net
+sourcepoint.mgr.consensu.org
