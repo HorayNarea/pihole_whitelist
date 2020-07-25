@@ -1,3 +1,0 @@
-# Spotify
-open.spotify.com
-spclient.wg.spotify.com
