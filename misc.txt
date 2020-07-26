@@ -1,27 +1,15 @@
 # misc
 habd.as
-reports.adguard.com
-app.adjust.com
-guce.advertising.com
-ocsp.comodoca.com
 pub.s10.exacttarget.com
-firebaseremoteconfig.googleapis.com
-hackerone.com
-ichnaea.netflix.com
 stats.pingdom.com
-s.shopify.com
 image.ard.de
 prophet.heise.de
-shop.rewe-static.de
-spiegel-de.spiegel.de
 i0.web.de
-forms.gle
 i0.gmx.net
 www.slideshare.net
-vidoza.net
 openports.se
 
-# strato shared hosting
+# strato shared hosting (lauerundwehner.de)
 81.169.145.161
 
 # Spiegel Online

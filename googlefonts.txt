@@ -1,3 +1,2 @@
 # Google web fonts
 googleadapis.l.google.com
-gstaticadssl.l.google.com

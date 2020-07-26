@@ -1,9 +1,0 @@
-# shortlinks
-tinyurl.com
-is.gd
-app.link
-bit.ly
-cutt.ly
-www.cutt.ly
-j.mp
-amzn.to

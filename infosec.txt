@@ -1,5 +1,0 @@
-# InfoSec false-positives
-openwall.com
-www.openwall.com
-iplists.firehol.org
-seclists.org
