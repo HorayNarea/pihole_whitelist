@@ -1,6 +1,7 @@
 # crash reporting & co.
 iphonesubmissions.apple.com
 app-measurement.com
+e.crashlytics.com
 firebase-settings.crashlytics.com
 reports.crashlytics.com
 settings.crashlytics.com
