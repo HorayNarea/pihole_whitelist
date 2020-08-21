@@ -1,7 +1,6 @@
 # Adlist Domains
 azorult-tracker.net
 blocklist.cyberthreatcoalition.org
-gist.github.com
 gitlab.com
 hblock.molinero.dev
 hole.cert.pl
