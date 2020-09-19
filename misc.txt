@@ -17,3 +17,12 @@ sourcepoint.mgr.consensu.org
 message331.sp-prod.net
 message331-fra.sp-prod.net
 spiegel-de.spiegel.de
+
+# Apple
+supportmetrics.apple.com
+stats.gc.apple.com
+metrics.icloud.com
+
+# Google APIs
+firebaselogging-pa.googleapis.com
+people-pa.googleapis.com
