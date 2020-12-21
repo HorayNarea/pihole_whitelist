@@ -1,19 +1,28 @@
 # Adlist Domains
+280blocker.net
+abpvn.com
+adaway.org
+adguardteam.github.io
 azorult-tracker.net
 blocklist.cyberthreatcoalition.org
+filtri-dns.ga
 gitlab.com
-hblock.molinero.dev
 hole.cert.pl
 hostfiles.frogeye.fr
 infosec.cert-pa.it
 infosharing.cybersaiyan.it
 joewein.net
+kriskintel.com
 mirror1.malwaredomains.com
 osint.digitalside.it
+paulgb.github.io
 pgl.yoyo.org
 phishing.army
+phishing.mailscanner.info
 raw.githubusercontent.com
 rescure.fruxlabs.com
+rescure.me
+s3.amazonaws.com
 someonewhocares.org
 urlhaus.abuse.ch
 v.firebog.net
@@ -22,4 +31,3 @@ www.bentasker.co.uk
 www.botvrij.eu
 www.joewein.net
 www.malwaredomainlist.com
-www.stopforumspam.com
