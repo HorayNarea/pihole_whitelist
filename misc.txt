@@ -2,27 +2,11 @@
 habd.as
 pub.s10.exacttarget.com
 stats.pingdom.com
-image.ard.de
-prophet.heise.de
+
+# United Internet
 i0.web.de
 i0.gmx.net
-www.slideshare.net
-openports.se
-
-# strato shared hosting (lauerundwehner.de)
-81.169.145.161
 
 # Spiegel Online
 sourcepoint.mgr.consensu.org
 message331.sp-prod.net
-message331-fra.sp-prod.net
-spiegel-de.spiegel.de
-
-# Apple
-supportmetrics.apple.com
-stats.gc.apple.com
-metrics.icloud.com
-
-# Google APIs
-firebaselogging-pa.googleapis.com
-people-pa.googleapis.com

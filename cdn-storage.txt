@@ -1,4 +1,0 @@
-# CDNs & Storage
-ftp.samba.org
-schd.ws
-gitcdn.xyz

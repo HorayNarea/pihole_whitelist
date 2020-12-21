@@ -1,3 +1,2 @@
 # GeoIP
 whoami.akamai.net
-pro.ip-api.com
