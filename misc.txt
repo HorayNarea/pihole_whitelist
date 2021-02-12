@@ -10,3 +10,7 @@ i0.gmx.net
 # Spiegel Online
 sourcepoint.mgr.consensu.org
 message331.sp-prod.net
+
+# unblock DS/DNSKEY queries
+@@||*^$dnstype=DS
+@@||*^$dnstype=DNSKEY
