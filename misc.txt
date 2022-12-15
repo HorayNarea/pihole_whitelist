@@ -1,7 +1,5 @@
 # misc
 habd.as
-pub.s10.exacttarget.com
-stats.pingdom.com
 
 # United Internet
 i0.web.de
@@ -9,7 +7,6 @@ i0.gmx.net
 
 # Spiegel Online
 sourcepoint.mgr.consensu.org
-message331.sp-prod.net
 
 # unblock DS/DNSKEY queries
 @@||*^$dnstype=DS

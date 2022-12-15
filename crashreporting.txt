@@ -3,5 +3,3 @@ e.crashlytics.com
 firebase-settings.crashlytics.com
 reports.crashlytics.com
 settings.crashlytics.com
-crashlytics2.l.google.com
-crashlogs.whatsapp.net

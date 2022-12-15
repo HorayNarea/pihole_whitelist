@@ -1,2 +1,0 @@
-# GeoIP
-whoami.akamai.net
