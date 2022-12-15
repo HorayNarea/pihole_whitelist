@@ -1,0 +1,29 @@
+# Microsoft Diagnostics, Defender, Crash Analysis, Error Reporting, etc.
+# https://docs.microsoft.com/en-us/windows/privacy/configure-windows-diagnostic-data-in-your-organization
+
+# Connected User Experiences and Telemetry
+@@||v10.events.data.microsoft.com
+@@||v10c.events.data.microsoft.com
+@@||vortex-win.data.microsoft.com
+
+# Windows Error Reporting
+@@||watson.telemetry.microsoft.com
+@@||umwatsonc.events.data.microsoft.com
+@@||*-umwatsonc.events.data.microsoft.com
+@@||blob.core.windows.net
+
+# Authentication
+@@||login.live.com
+
+# Online Crash Analysis
+@@||oca.telemetry.microsoft.com
+@@||oca.microsoft.com
+@@||kmwatsonc.events.data.microsoft.com
+@@||*-kmwatsonc.events.data.microsoft.com
+
+# Settings
+@@||settings-win.data.microsoft.com
+
+# misc
+@@||watson.microsoft.com
+@@||vortex.data.microsoft.com
